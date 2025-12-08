@@ -1,4 +1,11 @@
 {
+  "大丽花": {
+    "card": "https://act-upload.mihoyo.com/sr-wiki/2025/12/04/276833758/76b33e1ed854ec1f9290b9f7853ba952_5862832724680532630.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
+    "name": "大丽花",
+    "avatar": "https://patchwiki.biligame.com/images/sr/1/1c/nxx3bwgqdwdsp7k9dj0z5jxumr8a32h.png",
+    "type": "虚无",
+    "info": ""
+  },
   "昔涟": {
     "card": "https://act-upload.mihoyo.com/sr-wiki/2025/11/05/276833758/06516933b5542cc1629d897242d99e68_5303886245965460644.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
     "name": "昔涟",
@@ -26,13 +33,6 @@
     "avatar": "https://patchwiki.biligame.com/images/sr/d/d9/0dyo0uk3edcfpjbz82qbwep032ge0m4.png",
     "type": "毁灭",
     "info": "三分练，七分吃"
-  },
-  "大丽花": {
-    "card": "https://act-upload.mihoyo.com/sr-wiki/2025/10/22/276833758/b4d9593c8414aba91aa67e29d8f84754_8994492711648829897.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
-    "name": "大丽花",
-    "avatar": "https://patchwiki.biligame.com/images/sr/1/1c/nxx3bwgqdwdsp7k9dj0z5jxumr8a32h.png",
-    "type": "虚无",
-    "info": ""
   },
   "风堇": {
     "card": "https://act-upload.mihoyo.com/sr-wiki/2025/11/26/276833758/1c1ffb8e148a59e623bc970fe274134f_3451097629673395180.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
